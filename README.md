@@ -1,4 +1,4 @@
-# System Process Visualization Project
+# Process Mapper
 
 This project aims to visualize the operating system processes using Python and several graphical libraries. It allows users to see the relationship between processes and obtain information about resource consumption.
 
@@ -16,8 +16,8 @@ To install the necessary dependencies, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
+   git clone https://github.com/Zer0plusOne/ProcessMapper/
+   cd ProcessMapper
    ```
 
 2. Run the dependency installation script:
@@ -34,10 +34,8 @@ This script will update the package index and ensure that `pip` is installed. Th
 Once the dependencies are installed, you can run the main script of the project with:
 
 ```bash
-python3 script_name.py
+python3 ProcessMapper.py
 ```
-
-Replace `script_name.py` with the name of your project's main file.
 
 ## Contributions
 
@@ -58,4 +56,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or comments, you can contact:
 
-- **Your Name** - [your_email@example.com](mailto:your_email@example.com)
+- **DISCORD** @zer0Who
